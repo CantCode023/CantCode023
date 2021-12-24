@@ -6,7 +6,7 @@
 <br>
 
 ### <div align="center"><h2>Status</h2></div>
-Learning Javascript and React.
+<div align="center">Learning Javascript and React.</div>
 
 ## <div align="center"><h5>My Skills</h5></div>
 <table align="center"><tr><td valign="top" width="50%">
