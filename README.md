@@ -5,6 +5,9 @@
 ### <div align="center"><h2>CantCode</h2></div>
 <br>
 
+### <div align="center"><h2>Status</h2></div>
+Learning Javascript and React.
+
 ## <div align="center"><h5>My Skills</h5></div>
 <table align="center"><tr><td valign="top" width="50%">
   
