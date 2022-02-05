@@ -55,7 +55,7 @@
     <br>
     <img width="150px" height="150px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy5x7OT9r9H99YTjBgmOXoeil7BUQR3MziVhdQIMvrXyfTfFUQ9ghgyGcZK5gSQ_IgrSE&usqp=CAU" alt="Twitter Logo">
     <br>
-    <a href="https://twitter.com/CantCode3">CantCode3</a>
+    <a href="https://twitter.com/CantCode023">CantCode023</a>
 </div>
 
 ## <div align="center"><h5>Github Stats</h5></div>
