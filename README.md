@@ -1,8 +1,6 @@
-# CantCode023
+# bd.
+### 16yo aspiring software dev.
 
-### - 16 he/him
-
-# Contacts
-
+# contacts
 ### Email: cantcode023@gmail.com
 ### Discord: bd8344
