@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [NURS](https://github.com/CantCode023/NURS)
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently learning **Cybersecurity** and **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://agathe-gw889ekwkt.figweb.site/](https://agathe-gw889ekwkt.figweb.site/)
 
