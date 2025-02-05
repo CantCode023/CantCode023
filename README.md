@@ -45,3 +45,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cantcode023&show_icons=true&locale=en" alt="cantcode023" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cantcode023&" alt="cantcode023" /></p>
+
+<a href="https://app.daily.dev/bd023"><img src="https://api.daily.dev/devcards/v2/trtz72Q4xzYdbF5eF5ghE.png?type=default&r=kw9" width="356" alt="Putera Danish Danial's Dev Card"/></a>
