@@ -19,11 +19,15 @@
 
 - ⚡ Fun fact **2+2=4**
 
+---
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Compress MP4 files in Python with only 3 lines of code](https://medium.com/@cantcode023/compress-mp4-files-in-python-with-only-3-lines-of-code-4b01f6d274c7?source=rss-d5411099f338------2)
 - [The Benefits of Coding Without Money](https://medium.com/@cantcode023/benefits-of-coding-without-money-5a2f4d3e6565?source=rss-d5411099f338------2)
 <!-- BLOG-POST-LIST:END -->
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cantcode023&show_icons=true&locale=en&layout=compact" alt="cantcode023" /></p>
 
