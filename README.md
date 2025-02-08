@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bd023" target="blank"><img src="https://img.shields.io/twitter/follow/bd023?logo=twitter&style=for-the-badge" alt="bd023" /></a> </p>
 
-- 🔭 I’m currently working on [NURS](https://github.com/CantCode023/NURS)
+- 🔭 I’m currently working on [evoke](https://github.com/CantCode023/evoke)
 
 - 🌱 I’m currently learning **Cybersecurity** and **Machine Learning**
 
