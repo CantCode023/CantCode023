@@ -35,7 +35,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cantcode023&" alt="cantcode023" /></p>
 
-<div style="display: flex;">
+<div style="display: flex; gap: 10px;">
   <a href="https://app.daily.dev/bd023">
     <img src="https://api.daily.dev/devcards/v2/trtz72Q4xzYdbF5eF5ghE.png?type=default&r=kw9" width="356" alt="bd's Dev Card"/>
   </a>
