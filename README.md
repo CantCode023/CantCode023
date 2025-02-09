@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Cybersecurity** and **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://agathe-gw889ekwkt.figweb.site/](https://agathe-gw889ekwkt.figweb.site/)
+- 👨‍💻 All of my projects are available at [https://bd.is-a.dev](https://bd.is-a.dev)
 
 - 📫 How to reach me **bd8344 (Discord), cantcode023@gmail.com (Gmail)**
 
-- 📄 Know about my experiences [https://agathe-gw889ekwkt.figweb.site/](https://agathe-gw889ekwkt.figweb.site/)
+- 📄 Know about my experiences [https://bd.is-a.dev](https://bd.is-a.dev)
 
 - ⚡ Fun fact **2+2=4**
 
