@@ -35,4 +35,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cantcode023&" alt="cantcode023" /></p>
 
-<a href="https://app.daily.dev/bd023"><img src="https://api.daily.dev/devcards/v2/trtz72Q4xzYdbF5eF5ghE.png?type=default&r=kw9" width="356" alt="Putera Danish Danial's Dev Card"/></a>
+<a href="https://app.daily.dev/bd023"><img src="https://api.daily.dev/devcards/v2/trtz72Q4xzYdbF5eF5ghE.png?type=default&r=kw9" width="356" alt="bd's Dev Card"/></a>
+
+<a href="https://github.com/CantCode023"><img src="https://raw.githubusercontent.com/CantCode023/CantCode023/refs/heads/main/assets/postspark_export_2025-02-09_11-05-21.png" width="356" alt="bd's contribution graph"/></a>
