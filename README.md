@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Engineering Optimizer with Google Gemini](https://medium.com/@cantcode023/prompt-engineering-optimizer-with-google-gemini-f5df1f77de7f?source=rss-d5411099f338------2)
 - [Converting Github Repository to Blog Article Using AI!](https://medium.com/@cantcode023/bloggit-from-github-guts-to-blog-glory-because-who-has-time-to-actually-write-f26bcf037e12?source=rss-d5411099f338------2)
 - [Making commit messages more fun with gitmoji.ai!](https://medium.com/@cantcode023/making-commit-messages-more-fun-with-gitmoji-ai-85cfdcf13cba?source=rss-d5411099f338------2)
 - [Evoking Excitement: A Multi-AI Agent Project Idea Generator](https://medium.com/@cantcode023/evoking-excitement-a-multi-ai-agent-project-idea-generator-aecc5c49af52?source=rss-d5411099f338------2)
-- [Compress MP4 files in Python with only 3 lines of code](https://medium.com/@cantcode023/compress-mp4-files-in-python-with-only-3-lines-of-code-4b01f6d274c7?source=rss-d5411099f338------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
